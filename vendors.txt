@@ -1,3 +1,0 @@
-
-git status
-Well this is awkward
